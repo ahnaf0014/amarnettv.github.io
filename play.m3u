@@ -228,7 +228,7 @@ http://149.28.147.59/live/onuvhuti/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ck9u2up8vlf1joq/tvasia.jpg" group-title="BANGLA ENT.",TV Asia [BD]
 http://69.64.57.213:1935/trunk1/tvasiahd/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZXAvBfX.png" group-title="BANGLA ENT.",Shopno IPTV [BD]
-http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8?@amarnettv.live
+http://talusafagroup.ddns.net:8080/shopno/shopnotv.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6KsBwmAHtmufM3Yd7voJ7vq-5H_mgdWLcP4BGSnznamzn55wreYqbvCPD7dySpWqr7d-au-L2kuZEgTHm225Ovr58Eh7X892i5jFhUl-xpIPPsVaY96yHy9s" group-title="BANGLA ENT.",Deshi IPTV [BD]
 http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="BANGLA ENT.",Channel 23 IPTV [BD]
